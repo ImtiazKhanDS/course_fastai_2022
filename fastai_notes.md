@@ -46,7 +46,7 @@
 	1. DataBlock
 	2. Learner
 
-Deep Learning
+##### Deep Learning
 	1. Image recognition
 	2. Segmentation-classify each pixel
 	3. Tabular data classification

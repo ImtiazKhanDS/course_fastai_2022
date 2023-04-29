@@ -1,4 +1,4 @@
-#### lesson 1
+#### LESSON-1
 
 ##### classification problem on bird vs forest.
 

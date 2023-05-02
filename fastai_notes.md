@@ -87,6 +87,20 @@
 30. GitHub pages we can create to create a website and then we can call api of the huggingface api.
 31. Enable githubpages in settings in GitHub account.
 
+#### LESSON 3
+1. Watch the lecture
+2. Run the notebook and experiment
+3. Reproduce Results
+4. Repeat with different dataset.
+5. paperspace gradient has persistent storage.
+6. Which image models are the best blog by jeremy howard.
+7. convnext models worked better for paddy classification model.8. learn.export("model.pkl")
+9. load_learner("model.pkl")
+10.categories=learn.dls.vocab , gives the classification categoires.
+11. torch.clip(y,0) any value of y less than zero will be clipped to zero.
+12. We can use many relus combination and create any function we want.
+13. Learning rate is a hyper parameter.
+14. matrixmultiplication.xyz for visualizing matrix multiplication.
+15. Getting started with NLP for absolute beginners NLP notebook by jeremy.
 
-
- 
+#### LESSON 4  

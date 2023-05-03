@@ -103,4 +103,14 @@
 14. matrixmultiplication.xyz for visualizing matrix multiplication.
 15. Getting started with NLP for absolute beginners NLP notebook by jeremy.
 
-#### LESSON 4  
+#### LESSON 4
+
+1. ULMFit , train a language model on wikitext , finetune language model on IMDB and then create a classification model on imdb.
+2. US patent phrase to phrase matching problem kaggle.
+3. numpy, matplotlib, pandas and pytorch
+4. python for data analysis by wes mckinney.
+5. Tokenization : split each text up into words.
+6. Numericalization : convert each workd into a number.
+7. rust library is used for tokenization.
+8. np.corrcoef to get the correlation between all variables in data frame.
+9. If you set num_labels=1 in AutoModelForSequenceClassificationit will convert into a regression problem.

@@ -95,4 +95,4 @@
 4. sympy package takes a function as string and plots that function
 5. fastai always creates an other category so that it can be handled in test set if there are other categories which are not in train data. 
 6. learn.lr_find(suggest_funcs=(slide,valley)) choose any learning rate between slide and valley in the graph.
-7.Random forests are very difficult to mess up as apposed to logistic or linear regressions. 
+7. Random forests are very difficult to mess up as apposed to logistic or linear regressions. 

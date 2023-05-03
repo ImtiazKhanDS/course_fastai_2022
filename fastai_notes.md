@@ -97,3 +97,17 @@
 5. fastai always creates an other category so that it can be handled in test set if there are other categories which are not in train data. 
 6. learn.lr_find(suggest_funcs=(slide,valley)) choose any learning rate between slide and valley in the graph.
 7. Random forests are very difficult to mess up as apposed to logistic or linear regressions. 
+
+#### LESSON 6
+
+1. For tabular data we always use random forests.
+2. Feature importance plot tells us  is which feature is important.
+3. Jeremy as a rule of thumb uses not more than 100 trees.
+4. OOB error.
+5. Partial dependence plot gives the relationship between two variables keeping all variables constant.
+6. Python packages treeinterpreter and waterfallcharts
+7. Explained.ai gradient boosting
+8. Iterate like a grand master.
+9. fastkaggle package for downloading data
+10. Road to the top Model notebooks on paddy classification
+

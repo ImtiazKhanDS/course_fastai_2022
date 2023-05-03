@@ -121,3 +121,13 @@
 5. Embedding is nothing but matrix multiplication of a matrix with a one hot encoded vector.
 6. Add movie bias and user bias to the model as a trick.
 
+#### LESSON 8
+1. Colloborative filtering using fastai collab learner.
+2. Embeddings can be used for text data , tabular data and collaborative model.
+3. Entity embeddings of categorical variables paper by Cheng Guo and Felix Berkhahn Neokami Inc april 25 2016.
+4. Convolution is sliding dot products of pixels of image with the filters under consideration.
+5. drop some activations based on a probability : dropout.
+6. The way we implement a dropout is multiply the image with the dropout mask. 
+7. Read meta learning book by radek osmulski
+8. Do projects with your own data.
+9. Join study groups.

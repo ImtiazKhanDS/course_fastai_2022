@@ -111,3 +111,13 @@
 9. fastkaggle package for downloading data
 10. Road to the top Model notebooks on paddy classification
 
+
+#### LESSON 7
+
+1. Gradient accumulation is a method we can use if we have little gpu memory.
+2. Road to the top part 4 notebook discussion with multiple categoryblocks and one Imageblock.  
+3. For each movie we want to find out what movie is it in terms of latent factors.
+4. If user 1 likes the movie in terms of latent factors and if user2 is similar in taste to user1 then we can recommend this movie to the user2.
+5. Embedding is nothing but matrix multiplication of a matrix with a one hot encoded vector.
+6. Add movie bias and user bias to the model as a trick.
+

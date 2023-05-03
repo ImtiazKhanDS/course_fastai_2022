@@ -88,3 +88,11 @@
 7. rust library is used for tokenization.
 8. np.corrcoef to get the correlation between all variables in data frame.
 9. If you set num_labels=1 in AutoModelForSequenceClassificationit will convert into a regression problem.
+
+#### LESSON 5
+1. modes=df.mode().iloc[0] gives the mode from each column.
+2. df.fillna(modes,inplace=true) simplest way to fill na values.3. Broadcasting an array in python.
+4. sympy package takes a function as string and plots that function
+5. fastai always creates an other category so that it can be handled in test set if there are other categories which are not in train data. 
+6. learn.lr_find(suggest_funcs=(slide,valley)) choose any learning rate between slide and valley in the graph.
+7.Random forests are very difficult to mess up as apposed to logistic or linear regressions. 

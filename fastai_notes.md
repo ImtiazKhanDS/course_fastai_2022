@@ -1,58 +1,32 @@
 #### LESSON-1
-
-##### classification problem on bird vs forest.
-
-	1. duckduckgo search
-	2. data : 200 each of categories
-	3. datablock
-	4. cnn_learner
-	5. learn.predict
-
-
-##### Deep Learning Latest things.
-	1.examples of diffusion models
-	2.Pathways language model
-
-##### pedagogy
-	1.top down approach 
-	2.make learning whole by david perkins.
-
-##### visualizing neural networks by matt zeiler.
-	1. image recognizer can also be used for audio recognition
-	2. mouse movements fraud detection using images.
-
-##### Myths
-	lots of math
-	lots of data
-	lots of expensive computers
-
-##### Framework choice
-	pytorch - used heavily in research.
-	fastai built on top of pytorch
-
-##### Presentation in jupyter
-	rise
-
-##### Cloud notebook servers
-	1. kaggle
-	2. colab
-	3. paperspace gradient
-	4. lambda cloud
-
-##### Documentation
-	1. docs.fast.ai
-
-##### Critical components
-	1. DataBlock
-	2. Learner
-
-##### Deep Learning
-	1. Image recognition
-	2. Segmentation-classify each pixel
-	3. Tabular data classification
-	4. Colloborative filtering.
-
-
+1. duckduckgo search
+2. data : 200 each of categories
+3. datablock
+4. cnn_learner
+5. learn.predict
+6. examples of diffusion models
+7. Pathways language model
+8. top down approach 
+9. make learning whole by david perkins.
+10. image recognizer can also be used for audio recognition
+11. mouse movements fraud detection using images.
+12. lots of math
+13. lots of data
+14. lots of expensive computers
+15. pytorch - used heavily in research.
+16. fastai built on top of pytorch
+17. rise
+18. kaggle
+19. colab
+20. paperspace gradient
+21. lambda cloud
+22. docs.fast.ai
+23. DataBlock
+24. Learner
+25. Image recognition
+26. Segmentation-classify each pixel
+27. Tabular data classification
+28. Colloborative filtering.
 
 #### Lesson 2
 1. Jupyter notebook extensions for navigate tab and collapsible sections
